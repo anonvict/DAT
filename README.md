@@ -1,4 +1,4 @@
-**Termux Fdroid kemungkinan tidak bisa masuk jika lupa pw, tapi berbeda dengan Zerotermux 💡**
+**Termux Fdroid kemungkinan tidak bisa masuk jika lupa pw, beda dengan Zerotermux 💡**
 
 ---
 # ⚙️ Instalasi
